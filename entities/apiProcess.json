@@ -1,0 +1,9 @@
+{
+  "id": "fbb518b3-eb91-4e83-981b-e525e4241dae",
+  "name": "apiProcess",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

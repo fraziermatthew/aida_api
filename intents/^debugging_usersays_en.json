@@ -1,0 +1,125 @@
+[
+  {
+    "id": "4371de5a-c1df-4eb2-abba-e6e3092f50c8",
+    "data": [
+      {
+        "text": "debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c6e9770-2ca3-4032-a3c3-282e1b82adbe",
+    "data": [
+      {
+        "text": "I\u0027m curious about debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "150f5e5e-3ab8-4519-96a8-8088f26c4a67",
+    "data": [
+      {
+        "text": "Teach me about debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8fe6f91-f6b8-48ff-ae3b-1e1d74e705e3",
+    "data": [
+      {
+        "text": "I want to learn about debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29d6e843-92d4-4e4f-afa3-ead4bdde315e",
+    "data": [
+      {
+        "text": "I\u0027m interested in debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c2c00ef-f11a-492f-8faf-92d253bdd95c",
+    "data": [
+      {
+        "text": "what\u0027s debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "753554a9-4d1c-4638-9a88-e1ad17f54db4",
+    "data": [
+      {
+        "text": "describe debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47546599-e487-46a2-b05a-c9da3c80a15b",
+    "data": [
+      {
+        "text": "Tell me about debugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f8871c6-119f-4aef-9902-1c0435448e80",
+    "data": [
+      {
+        "text": "What is",
+        "meta": "@definition",
+        "alias": "definition",
+        "userDefined": false
+      },
+      {
+        "text": " debugging?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

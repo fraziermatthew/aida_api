@@ -1,0 +1,58 @@
+{
+  "id": "d79fc4a6-d893-4190-9036-a7047d5e4899",
+  "parentId": "3e088462-9e52-47ec-bb0b-7ba577622864",
+  "rootParentId": "3e088462-9e52-47ec-bb0b-7ba577622864",
+  "name": "*es_cs_role_api",
+  "auto": true,
+  "contexts": [
+    "es_cs_function-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_cs_function.es_cs_function-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9f04756d-4692-4094-b815-c012a79be54d",
+          "name": "apiFunction",
+          "required": false,
+          "dataType": "@apiFunction",
+          "value": "$apiFunction",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! An API is like a set of rules and tools that help different programs communicate and work together. It acts as a doorway with instructions for applications to interact with each other. APIs define how data is exchanged and allow applications to collaborate, even if they\u0027re made by different teams or use different programming languages. They make it easier for developers to create software by reusing existing code and services, saving time and effort. Essentially, APIs are like mediators that enable effective communication and sharing of information between applications.\n\nChoose the next topic to learn about:  when to use an API or procedural abstraction.",
+            "Sure! Imagine you have two cool toys that you want to make work together, but they don\u0027t speak the same language. That\u0027s where an API comes in! An API is like a special translator that helps these toys understand each other and play nicely. The API tells each toy how to talk to the other one, what information they can share, and what they can do together. It\u0027s like a set of rules that they follow to work together smoothly.\n\nSo, in simple words, an API helps different programs or toys talk to each other and share information. It\u0027s like a language and rulebook that makes sure they understand each other and can work together effectively.\n\nWhich topic interests you more:  when to use a library or function return values?",
+            "An API is like a rulebook and tools that help programs talk to each other and share information. It\u0027s a way for apps to work together, even if they\u0027re made by different teams or use different languages. It\u0027s like a mediator that helps them communicate effectively and create powerful software systems.\n\nWhich of the following would you be interested in learning more about:  how to create an API or modularity?",
+            "An API, or Application Programming Interface, plays a crucial role in enabling communication and interaction between different software applications, systems, or services. It acts as an interface or bridge that allows applications to exchange data, request services, and interact with each other in a standardized and efficient manner.\n\nChoose the next topic to learn about: what is an API or documentation.",
+            "The primary role of an API is to define a set of rules and protocols that govern how software components should interact with each other. It establishes a contract between the provider of the API (often referred to as the API provider or API server) and the consumer of the API (often called the API client or application).\n\nWhich topic interests you more: how to create a library or debugging?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

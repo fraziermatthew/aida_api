@@ -1,0 +1,59 @@
+{
+  "id": "a0ce34de-8e1b-47af-8213-2ef48599b1da",
+  "name": "02_personalReflection_api",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "02_personalReflection_api-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0642eea8-2e37-43eb-b303-9fa5824079f4",
+          "name": "api",
+          "required": false,
+          "dataType": "@api",
+          "value": "$api",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Application Program Interfaces (APIs) detail type how to interact with libraries. How can you make sure that the end users of your library have what they need in order to use your functions?",
+            "Application Program Interfaces (APIs) act as instructions for how to use the functions in a library. How can you be confident that your library\u0027s end users have all they require in order to use your library\u0027s functions?",
+            "An application program interface (API) is an intermediary that describes how to interact with a library. How can you be sure that the users of your library have all they need to use your functions?",
+            "An application program interface (API) provides as usage guidelines for a library\u0027s functions. How can you make sure that the end users of your library have what they need in order to use your functions?",
+            "Application Program Interfaces (APIs) serves as a guide for how to communicate with a library. How can you be sure that the users of your library have all they need to use your functions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

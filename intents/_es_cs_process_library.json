@@ -1,0 +1,58 @@
+{
+  "id": "9cd3f02a-a559-4614-a68a-e481caadc0ba",
+  "parentId": "f8cd3f68-78cc-427c-b89c-3537efa53d81",
+  "rootParentId": "f8cd3f68-78cc-427c-b89c-3537efa53d81",
+  "name": "*es_cs_process_library",
+  "auto": true,
+  "contexts": [
+    "es_cs_process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_cs_process.es_cs_process-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4d859358-9490-4ffd-86c2-3c96c4135388",
+          "name": "libraryprocess",
+          "required": false,
+          "dataType": "@libraryProcess",
+          "value": "$libraryprocess",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To create a library, here are some guidelines to follow:\n\n1. Build functions: Brainstorm a theme for your library. Think about what kinds of functions that you would like to add and what situations you would want to make easier.\n\n2. Add documentation: Provide clear and concise documentation that explains how to use the library. Use simple language and provide examples.\n\n3. Share as a Library: Share your library with others and encourage feedback. Make it easy for others to use and contribute to the library.\n\nWhich topic interests you more: modularity or the process of creating an API?",
+            "To create a library, follow these guidelines:\n\n1. Brainstorm: Brainstorm a theme for your library. Think about what kinds of functions that you would like to add and what situations you would want to make easier.\n\n2. Design: Choose two or more functions that you would like to build. Remember to include parameters and return values.\n\n3. Build: Build the functions that you designed.\n\nWhich topic interests you more: modularity or the process of creating an API?",
+            "By following these guidelines, you can create a software library:\n\n1. Start with a clear goal: Before you start writing any code, it\u0027s important to define the purpose of your software library. Ask yourself what problem you\u0027re trying to solve and what the library should do.\n\n2. Keep it simple: When writing your library, keep it simple and straightforward. Use plain language and avoid technical jargon. Try to break down complex concepts into smaller, more understandable parts.\n\n3. Use meaningful names: Choose meaningful names for your functions, classes, and variables. Use names that accurately describe what the code is doing.\n\n4. Provide documentation: Provide clear and concise documentation that explains how to use the library. Use simple language and provide examples.\n\n5. Test your code: Make sure your code works as intended by testing it thoroughly. Use simple test cases that are easy to understand.\n\n6. Share your library: Share your library with others and encourage feedback. Make it easy for others to use and contribute to the library.\n\nWhich topic interests you more: testing a function or the role of libraries?",
+            "By following these guidelines, you can create a software library:\n\n1. Define the purpose: Start by defining the purpose of your software library. What problem does it solve? Use simple, easy-to-understand language to describe the problem and the solution.\n\n2. Use simple functions: Create simple functions that perform one task each. Use easy-to-understand names for your functions and make sure they are clearly documented.\n\n3. Include comments: Use comments to explain what your code is doing at each step. Make sure the comments are clear and concise and use plain language.\n\n4. Provide examples: Provide examples of how to use your library. Use simple, easy-to-understand code examples and explain how each example works.\n\n5. Test your code: Make sure your code works as intended by testing it thoroughly. Use simple test cases that are easy to understand.\n\n6. Share your library: Share your library with others and encourage feedback. Make it easy for others to use and contribute to the library.\n\nWhich topic interests you more: documentation or seeing an example of a library?",
+            "To create a library, follow these guidelines:\n\n1. Describe the goal: Establish the goal of your software library first. What issue does it address? When describing the issue and the remedy, use plain, understandable language.\n\n2. Design straightforward functions that each carry out a single operation. Make sure your functions are well-documented and use names that are simple to grasp.\n\n3. Add comments: Use comments to describe what each step of your code is doing. Use simple language and make sure the remarks are clear and succinct.\n\n4. Provide examples: Give illustrations of how to use your library in a manner that a student in the fifth grade may comprehend. Provide clear, understandable code examples and describe the operation of each one.\n\n5. Thoroughly test your code to ensure that it functions as intended. Make use of plain, understandable test scenarios.\n\n6. Make your library accessible to others and invite comments. Make the library simple for people to use and contribute to.\n\nWhich topic interests you more: procedural abstraction or when to use a library?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

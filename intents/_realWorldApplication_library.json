@@ -1,0 +1,91 @@
+{
+  "id": "53b94cc2-47df-45c5-8648-e110fde35511",
+  "parentId": "1c8acfee-0080-48f9-8e1f-080d4b88d9bf",
+  "rootParentId": "1c8acfee-0080-48f9-8e1f-080d4b88d9bf",
+  "name": "_realWorldApplication_library",
+  "auto": true,
+  "contexts": [
+    "01_personalReflection_library-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "01_personalReflection_library.01_personalReflection_library-custom",
+      "affectedContexts": [
+        {
+          "name": "_realWorldApplication_library-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f65c7d64-4157-4f08-92f6-3501d9439ebd",
+          "name": "api",
+          "required": false,
+          "dataType": "@api",
+          "value": "$api",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "38408c73-233c-459d-998e-679ba6a33738",
+          "name": "library",
+          "required": false,
+          "dataType": "@library",
+          "value": "$library",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b5b64be9-6603-4a97-bc7b-75de6960e3ee",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That is a way of sharing functions. A software library is like a tool belt for a carpenter. Just as a tool belt contains a variety of tools for different woodworking tasks, a software library contains pre-written code for different programming tasks. \n\nThere are several aspects that affect creating useful library functions. Let\u0027s learn them. What do you think is one good characteristic of a library of functions? Here\u0027s a clue for one characteristic. Imagine if a library displayed the wrong result.",
+            "A software library is like a pencil box. Just as a pencil box contains different pencils, pens, and erasers for different tasks, a software library contains pre-written code for different programming tasks. Each tool in a pencil box is like a function in a software library. Just as each tool has a specific purpose, each function in a software library performs a specific task.\n\nWhether you should build a library of functions depends on a variety of factors. Let\u0027s explore them together. Can you think of one characteristic that makes a good library function? Here is a hint of one quality. Imagine if a library showed the incorrect calculation or result.",
+            "A software library is like a toolbox for programmers. Just as a toolbox contains a variety of tools for different jobs, a software library contains pre-written code for different programming tasks. Using a software library is like using a specific tool from a toolbox, which saves time and effort by not having to create the tool from scratch. \n\nWhat is one characteristic of a good library function? For one characteristic, I\u0027ll give you a hint. Just consider what would happen if a library displayed the wrong result.",
+            "A software library is like a library of books. Just as a library contains a variety of books on different topics, a software library contains pre-written code for different programming tasks. Using a software library is like borrowing a book from a library, which saves time and effort by not having to write the code from scratch. \n\nMaking usable library functions is due to a number of factors. What do you consider to be one useful feature of a library function? For one feature, I\u0027ll give you a hint. Imagine if inaccurate result were displayed after using a library function.",
+            "A software library is like a collection of Lego pieces. Just as a collection of Lego pieces includes different types of pieces for building different structures, a software library contains pre-written code for different programming tasks. Using a software library is like using a specific Lego piece to build a structure, which saves time and effort by not having to create the piece or structure from scratch. \n\nThere are many aspects that affect whether you should create a library of functions. Let\u0027s learn them. What do you think makes for a good library function? Here is a hint for one quality. Imagine the effect on a program if a library showed the incorrect result."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

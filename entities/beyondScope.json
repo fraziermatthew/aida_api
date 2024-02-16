@@ -1,0 +1,9 @@
+{
+  "id": "c667f2e6-15b3-40b4-aa50-c9ca1fb9ae87",
+  "name": "beyondScope",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

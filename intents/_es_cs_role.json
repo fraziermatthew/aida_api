@@ -1,0 +1,57 @@
+{
+  "id": "3e088462-9e52-47ec-bb0b-7ba577622864",
+  "name": "*es_cs_role",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "es_cs_function-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "102dc6f7-f594-4beb-8a6e-483b22f95f86",
+          "name": "function",
+          "required": false,
+          "dataType": "@function",
+          "value": "$function",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What would you like to know the role of? APIs or libraries?",
+            "What is it that you want to know the function of? Libraries or APIs?",
+            "What do you want to know the role of? APIs or libraries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

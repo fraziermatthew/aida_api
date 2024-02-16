@@ -1,0 +1,58 @@
+{
+  "id": "570c33ed-0e78-47ba-91ab-73c1acd80529",
+  "parentId": "f8cd3f68-78cc-427c-b89c-3537efa53d81",
+  "rootParentId": "f8cd3f68-78cc-427c-b89c-3537efa53d81",
+  "name": "*es_cs_process_api",
+  "auto": true,
+  "contexts": [
+    "es_cs_process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_cs_process.es_cs_process-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b92b5bda-16ef-4942-84e0-496d5b3351e0",
+          "name": "apiprocess",
+          "required": false,
+          "dataType": "@apiProcess",
+          "value": "$apiprocess",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Recognize the audience of your API documentation. To create an API, add specifications for how functions in a library behave and can be used. API documentation includes:\n\n1. Listing all required or optional parameters and return values\n2. Each parameter should have its own documentation to explain the meaning of the parameter\n3. Provide examples\n4. Provide any error messages to convey improper use of the library\n\nWhich subject interests you next: debugging or an example of APIs?",
+            "Each function that is included in a library should include API documentation that explains how it operates, lists all of the parameters, and specifies what (if anything) will be returned.\n\nThat\u0027s the process of creating API documentation! Which subject interests you next: modularity or an example of APIs?",
+            "Programmers should write API documentation on:\n\n1. How each function works in their library\n2. A complete list of each function\u0027s parameters\n3. What (if anything) will be returned from each function\n4. Examples of using each function in the library\n5. Include any error messages to convey improper use of the library\n\nWhich subject would you like to learn about, documentation or an example of libraries?",
+            "Sure! Writing API documentation should:\n\n1. Detail how each function works in the library\n2. Specify a complete list of the parameters for each function in the library\n3. Specify (if anything) will be returned from each function\n4. Include examples of each functions output (if any)\n5. Document any error messages to convey improper use of the library\n\nWhich subject would you like to learn about, library testing or procedural abstraction?",
+            "API documentation are the guidelines for common scenarios of using your library\u0027s functions. \n\n1. Be sure to use clear language when writing API documentation.\n2. Add samples of code to your API documentation to help developers understand your library\u0027s full potential. \n3. Call out error messages in your documentation when input values are not entered properly when using your library.\n4. List all parameters and return values.\n5. Show any error messages to convey improper use of the library.\n\nWhich subject would you like to learn about, debugging or functions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

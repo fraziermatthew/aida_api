@@ -1,0 +1,55 @@
+{
+  "id": "eed41715-ff08-46eb-b77c-1588e9c9b7f5",
+  "name": "^function",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9cec7e33-c16d-42ae-a453-a69d301da53e",
+          "name": "process",
+          "required": false,
+          "dataType": "@process",
+          "value": "$process",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Functions are named groups of programming instructions. They are also referred to as a “procedure”. All functions should include documentation and comments that explain their purpose and how they work. A function call is a command that executes the code within a function. Which topic interests you more: an example of libraries or modularity?",
+            "A function is a named sequence of instructions that may take inputs and may report a value. Some languages call functions methods or procedures. Choose the next topic to learn further about: debugging or when to use a library.",
+            "A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times. Functions enable programmers to break down or decompose a problem into smaller chunks, each of which performs a particular task. Which of these topics would you like to know about: how to create an API or modularity.",
+            "Functions are \"self contained\" modules of code that accomplish a specific task. Functions usually \"take in\" data, process it, and \"return\" a result. Which of these topics would you like to know about: how to create a library or documentation?",
+            "A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing. Choose the next topic to learn further about: what is an API or procedural abstraction.",
+            "Groups of programming instructions are referred to as functions. They are additionally known as \"procedures.\" Every functions need comments and documentation outlining what they do and why. A command that runs the code contained in a function is known as a function call. Choose the next topic to learn further about: what is a library or procedural abstraction."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

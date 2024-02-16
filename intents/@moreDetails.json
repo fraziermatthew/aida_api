@@ -1,0 +1,39 @@
+{
+  "id": "770f621b-bf41-40fd-9764-63b11d730103",
+  "name": "@moreDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure 📚! I can help you learn about APIs and libraries. Which would you like to learn next about: the process, see an example, the role of each, or when to use or not to use? \n\nLet me know if you\u0027d like to learn about a different topic like documentation or debugging functions.",
+            "Awesome! Tired of learning about libraries or APIs? Which of these another topics interests you: procedural abstraction or seeing an example of a library? 📚",
+            "That\u0027s great! I can explain libraries or APIs. Did you learn about the process, see an example, or learn when to use or not use each? Any other subjects interests you next: modularity or how to create a library?",
+            "I ❤️ that! Got enough details? What other topics interest you: procedural abstraction or modularity? Or, you can ask me to provide you with an explanation of either APIs or libraries. I can give you some examples, as well as advice on when to use and when you shouldn\u0027t them. What information would you wish to learn about next?",
+            "Cool 😏! I can teach you about APIs and libraries. Which do you want to learn about next: the process, an example, the role of each, or when to utilize them or not?\n\nIf you\u0027re interested in learning more about another subject, such as functions or documentation, let me know."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

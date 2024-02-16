@@ -1,0 +1,62 @@
+{
+  "id": "e0638d9c-f96c-48c9-94aa-c6824112c1b9",
+  "parentId": "8e3a9bf3-9aff-45dd-abfd-72f51dc6259e",
+  "rootParentId": "8e3a9bf3-9aff-45dd-abfd-72f51dc6259e",
+  "name": "getStudyNumber",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "58001824-ccba-4bfe-97f2-6d2e2aee03f4",
+          "name": "number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I missed that. What is your study session number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you Participant $number 👋!  \n\nWhat would you like to learn about creating libraries or APIs? I can teach about what it is, the process to use it, show you examples, or when to use or not to use each.",
+            "Thanks Participant $number 👋! \n\nHow can I help you learn about building APIs or libraries? I can give you some examples, teach you what each is, explain the process, as well as offer advice on when to use it and when you shouldn\u0027t.",
+            "Thank you Participant $number 🙋‍♀️! \n\nWhat would you like to learn about making a library or API? I can demonstrate each, explain how it works, give you some examples, and advise you on when to use each one and when you shouldn\u0027t.",
+            "Thanks Participant $number 🙌! \n\nHow can I assist you in learning about creating an API or library? I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

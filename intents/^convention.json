@@ -1,0 +1,38 @@
+{
+  "id": "d0cd5026-79f5-4e93-a9be-bbbe7ed412aa",
+  "name": "^convention",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A convention is a way in which something is usually done. Which of the following would you be interested in learning more about: when to use APIs or writing documentation? \n\nI can also assist you in learning about APIs or libraries. I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not.",
+            "A convention is a standard way that is considered acceptable.  Which subject interests you more: why do we use libraries or modularity?",
+            "A convention is a standard manner of doing something. Would you be more interested in learning further about functions or when to use libraries?",
+            "A convention is a typical behavior that is accepted. Would else are interested in learning more about? I can assist you in learning about APIs or libraries. I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

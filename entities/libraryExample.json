@@ -1,0 +1,9 @@
+{
+  "id": "4969fa21-cace-4336-94ba-9c13178f27f2",
+  "name": "libraryExample",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

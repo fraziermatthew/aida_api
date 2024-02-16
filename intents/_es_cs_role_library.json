@@ -1,0 +1,58 @@
+{
+  "id": "edb4097a-fc72-42c9-87d6-311cc98660ed",
+  "parentId": "3e088462-9e52-47ec-bb0b-7ba577622864",
+  "rootParentId": "3e088462-9e52-47ec-bb0b-7ba577622864",
+  "name": "*es_cs_role_library",
+  "auto": true,
+  "contexts": [
+    "es_cs_function-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_cs_function.es_cs_function-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d9c9d502-8a47-4fce-b1ab-9af13c8515e3",
+          "name": "libraryFunction",
+          "required": false,
+          "dataType": "@libraryFunction",
+          "value": "$libraryFunction",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Imagine you\u0027re building something with LEGO blocks. Sometimes, you need certain special pieces to create specific things, like a wheel or a window. In programming, a library of functions is like a big collection of those special LEGO pieces.\n\nThese functions are like pre-made instructions for doing specific tasks. Instead of writing all the instructions from scratch, you can just use these ready-made functions to make your program work faster and easier. They help you do things like math calculations, drawing shapes, or even playing music.\n\nSo, a library of functions is like a toolbox filled with helpful LEGO pieces that you can use to build your program faster and better. It saves you time and makes programming more fun!\n\nWhat else are you interested in? I can explain libraries to you, give you an example of a library, tell you when to use libraries and when you shouldn\u0027t, and go over its applications. What about libraries would you like to learn next?",
+            "Certainly! In programming, a library of functions is a collection of pre-written code that solves common problems or performs specific tasks. It\u0027s like a toolbox filled with ready-made tools that programmers can use to make their lives easier.\n\nInstead of starting from scratch and writing all the code themselves, programmers can simply use these pre-existing functions from the library. These functions have already been created, tested, and optimized, so they save a lot of time and effort.\n\nFor example, if a programmer wants to work with dates and times, they can use a date/time library that already has functions for calculations, formatting, and comparisons. This way, they don\u0027t have to figure out all the complex details themselves. Libraries provide a shortcut, allowing programmers to focus on building their programs faster and more efficiently.\n\nWhich of these topics would you like to know about: the role of APIs, when to use APIs, or when to use libraries?",
+            "Certainly! In programming, a library of functions plays a crucial role by providing reusable pieces of code that solve common problems or perform specific tasks. These libraries are like treasure troves of pre-written code that programmers can leverage to make their own programs more efficient and powerful.\n\nBy using functions from a library, programmers can avoid reinventing the wheel and save a lot of time. These functions are already created, tested, and optimized, so they offer reliable solutions to common programming challenges. Libraries cover a wide range of areas, such as handling dates and times, working with databases, performing complex calculations, or even creating graphical user interfaces.\n\nIn essence, libraries empower programmers to stand on the shoulders of those who came before them, benefiting from their expertise and leveraging their solutions. This allows programmers to focus on the unique aspects of their projects, making development faster, more streamlined, and less prone to errors. Libraries are indispensable resources that enhance productivity and enable the creation of sophisticated software systems.\n\nWhich of the following would you be interested in learning more about:  what is a library or modularity?",
+            "A library of functions in programming is like a collection of ready-made LEGO pieces. These functions are pre-made instructions for specific tasks, such as math calculations or drawing shapes. Instead of starting from scratch, programmers can use these functions to make their programs work faster and easier. It\u0027s like having a toolbox of helpful LEGO pieces that save time and make programming more enjoyable.\n\nChoose the next topic to learn about:  what is an API or debugging.",
+            "In programming, a library of functions is a collection of pre-written code that solves common problems or performs specific tasks. It\u0027s like a toolbox of ready-made tools that programmers can use to save time and effort. Instead of starting from scratch, they can use these functions directly from the library, which have already been created, tested, and optimized. Libraries provide shortcuts, allowing programmers to focus on building programs faster and more efficiently. For example, a date/time library has functions for calculations, formatting, and comparisons, eliminating the need to figure out complex details from scratch.\n\nWhich topic interests you more: seeing an example of an API or function parameters?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

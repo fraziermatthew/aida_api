@@ -1,0 +1,58 @@
+{
+  "id": "2cf5d292-c153-48a3-a59f-bbabdec69cbd",
+  "parentId": "b0b0cdae-83ae-4e6c-8cd4-77033eab2c37",
+  "rootParentId": "a0ce34de-8e1b-47af-8213-2ef48599b1da",
+  "name": "_definition_api",
+  "auto": true,
+  "contexts": [
+    "_realWorldApplication_api-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "02_personalReflection_api.02_personalReflection_api-custom._realWorldApplication_api-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15dcfd6b-3f7c-4faa-92e3-7fe8bdc95615",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An application program interface (API) documents what a programmer needs to know about using a library: it\u0027s a description of each procedure\u0027s purpose, inputs, and outputs (but not its algorithms). Would you like a different explanation?\n\nI can explain libraries to you, give you an example of a library, tell you when to use libraries and when you shouldn\u0027t, and explain the role of libraries. What about libraries would you like to learn next?\n\nOr if you\u0027d want to, we can discuss procedural abstraction or modularity.",
+            "An API (Application Program Interface) is specifications for how functions in a library behave and can be used. Would you like a more thorough explanation?\n\nI can assist you in understanding the procedure of creating a library, viewing an example of a library, explain the role of libraries, or determining when to utilize libraries or not. Which libraries concept would you like to study next?",
+            "An API (application program interface) is a user guide for how to use the functions in your library. For each function, the API provides details on the purpose of the function and how to use it (e.g. inputs, outputs, and examples). Would you like me to re-explain this?\n\nYou can ask me to provide you an explanation of libraries, explain the role of a library, an example of a library, and suggestions on when you should and shouldn\u0027t use libraries. Which subject would you like to learn more about next?\n\nWe can chat about functions or documentation if you prefer that.",
+            "A library should have documentation for the included functions: how each function works, a complete list of the parameters, and what (if anything) will be returned. This detailed type of documentation is also known as an Application Program Interface (API). Do you want me to explain this again?\n\nYou can ask me to provide you another explanation of libraries, the role of libraries, show an example, when to use libraries and when you shouldn\u0027t, as well as details on creating libraries. Which subject are you interested in studying?\n\nIf you\u0027d want, we may also discuss procedural abstraction or documentation.",
+            "API stands for Application Program Interface. APIs are specifications for how the functions in a library behave and can be used. Would you like to further explain?\n\nI can assist you in understanding the process of creating a library, the role of a library, viewing an example of a library, or determining when to utilize a library or not. Which library concept would you like to study next?\n\nWe can talk about documentation or procedural abstraction if you\u0027d like too."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "01a718a9-2ac8-4be9-bf9d-fa5d3d85a99d",
+  "parentId": "8cc3ad85-58f1-4894-bb4e-e927776bfad9",
+  "rootParentId": "8cc3ad85-58f1-4894-bb4e-e927776bfad9",
+  "name": "*es_cs_ex_api",
+  "auto": true,
+  "contexts": [
+    "es_cs_ex-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_cs_ex.es_cs_ex-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8f653443-7c63-4b69-b0aa-4129aea916f9",
+          "name": "apiexample",
+          "required": false,
+          "dataType": "@apiExample",
+          "value": "$apiexample",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Suppose you have created a library of mathematical formulas. One library function is round().\n\nAdding documentation to the API will explain how to interact with the round() function. Providing examples to demonstrate the functions usage will clearly show how to use the function. For example, API documentation is:\n\nThe round() method rounds a number to the nearest integer. 2.49 will be rounded down (2), and 2.5 will be rounded up (3).\n\nWhich topic interests you more: modularity or the process of creating a library?",
+            "Sure! Suppose you have created a library of mathematical formulas. One library function is minimum(number1, number2).\n\nAdding documentation to the API will explain how to interact with the minimum(number1, number2) function. Providing examples to demonstrate the functions usage will clearly show how to use the function. For example, API documentation is:\n\nThe minimum(number1, number2) method returns the integer with the minimum value of the two arguments. The first argument, number1, is the first number to be compared. The second argument, number2, is the second number in the comparison. minimum(3, 4) will return 3, and minimum(2, 5) will return 2. This method accepts integers only.\n\nWhich topic interests you more: function return values or the process of creating an API?",
+            "Sure! Suppose you have created a library of mathematical formulas. One library function is maximum(number1, number2).\n\nAdding documentation to the API will explain how to interact with the maximum(number1, number2) function. Providing examples to demonstrate the functions usage will clearly show how to use the function. For example, API documentation is:\n\nThe maximum(number1, number2) method returns the integer with the maximum value of the two arguments. The first argument, number1, is the first number to be compared. The second argument, number2, is the second number in the comparison. maximum(3, 4) will return 4, and maximum(2, 5) will return 5. This method accepts integers only.\n\nWhich topic interests you more: modularity or procedural abstraction?",
+            "Sure! Suppose you have created a library of string operations. One library function is substring(start, end).\n\nAdding documentation to the API will explain how to interact with the substring(start, end) function. Providing examples to demonstrate the functions usage will clearly show how to use the function. For example, API documentation is:\n\nThe substring(start, end) method returns the substring of a string. The first argument, start, is the index where the substring will start. The second argument, end, is the index where the substring will end. If the string is \"This or that\", substring(0, 4) will return \"This\", and substring(8, 12) will return \"that\". This method accepts strings only.\n\nWhich topic interests you more: testing a function or the process of creating a library?",
+            "Sure! Suppose you have created a library of mathematical formulas. One library function is floor(x).\n\nAdding documentation to the API will explain how to interact with the floor(x) function. Providing examples to demonstrate the functions usage will clearly show how to use the function. For example, API documentation is:\n\nParameters: x a number\n\nDescription: The floor() method always rounds down and returns the largest integer less than or equal to a given number. \n\nExamples: floor(5.95) will be rounded down to 5, and floor(-5.05) will be rounded down to -6.\n\nWhich topic interests you more: documentation or procedural abstraction?",
+            "Imagine that you have the following function:\n\nfunction findSmallest(num1, num2){\n    if(num1 \u003c num2){\n        return num1;\n    } else {\n        return num2;\n    }\n}\n\nWhat information does the user need to know in order to use this function if it were included in a library of functions? To write an API for this function, you need to include how the function works, all the parameters and their data types with a short description of each, and what (if anything) will be returned. The API for the function could be this:\n\nfindSmallest: Given two numbers, finds the smallest\nnum1 {number} - first number \nnum2 {number} - second number\nreturn {number} - the smaller of the two numbers\n\nWhich topic interests you more: testing a function or procedural abstraction?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

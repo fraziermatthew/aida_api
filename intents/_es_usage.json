@@ -1,0 +1,57 @@
+{
+  "id": "3f49f818-4ab8-4bd6-a770-3cf9ed982c02",
+  "name": "*es_usage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "es_usage-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "69f3dc8b-ac8f-4277-88e6-6f6eef01f5c6",
+          "name": "usage",
+          "required": false,
+          "dataType": "@usage",
+          "value": "$usage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What subject do you want to learn more about usage in? Libraries or APIs?",
+            "Which subject would you like to learn about usage in? A library or an API?",
+            "What topic would you like to learn about when to use and when not to use? Using APIs or using libraries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

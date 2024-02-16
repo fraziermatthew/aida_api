@@ -1,0 +1,119 @@
+{
+  "id": "b0b0cdae-83ae-4e6c-8cd4-77033eab2c37",
+  "parentId": "a0ce34de-8e1b-47af-8213-2ef48599b1da",
+  "rootParentId": "a0ce34de-8e1b-47af-8213-2ef48599b1da",
+  "name": "_realWorldApplication_api",
+  "auto": true,
+  "contexts": [
+    "02_personalReflection_api-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "02_personalReflection_api.02_personalReflection_api-custom",
+      "affectedContexts": [
+        {
+          "name": "_realWorldApplication_api-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3a95138f-0ac2-458c-bb8f-fb53eaa55efe",
+          "name": "library",
+          "required": false,
+          "dataType": "@library",
+          "value": "$library",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e2705cb5-e556-4506-8ecc-7075c44192e5",
+          "name": "example",
+          "required": false,
+          "dataType": "@example",
+          "value": "$example",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b7f1c1c5-7826-4e76-bd30-01262af31870",
+          "name": "apiexample",
+          "required": false,
+          "dataType": "@apiExample",
+          "value": "$apiexample",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "83725d9a-4412-4249-adc4-b4153e22b8c9",
+          "name": "libraryusage",
+          "required": false,
+          "dataType": "@libraryUsage",
+          "value": "$libraryusage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "558a7a49-d009-4488-b478-a35c34a72d94",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Imagine that you\u0027re a chef trying to share your food with customers. You start by grouping together foods that you can make based on a logical theme (e.g. Italian or Mexican food). You prepare a food menu that explains what\u0027s in each dish, how it\u0027s prepared, etc. After building the menu, you send that to your customers. Ordering from a menu is similar to that of an API. People place their orders based on menu and the user can expect to receive the same output each time. The documentation of the food and the waiter (e.g. the menu) is needed to give clear directions on the food staff on how to prepare the food. The documentation in the API gives the user clear directions on how to use the functions in the library. What information does the user need to know in order to use the library functions?\n\nHere\u0027s a clue. Imagine if your library function adds two numbers, but the user expected the function to format a date. The input would cause an error.",
+            "Creating an API is like building a modular house. Each module has a specific function, like a bedroom or bathroom, and is designed to fit together with other modules to create a complete house. Similarly, when creating an API, different modules of functionality or data are designed to fit together to create a complete set of features that can be shared or accessed by other software applications. When building a modular house, the customer can view a brochure of the modules and see how to use each module. The API is similar by acting as the framework that explains how the modules connect together and provides a standardized way for different applications to access the data or functionality they need. What information does the user need to know in order to use the library functions?\n\nHere is a hint. Imagine using library that you expect to format a date but it actually is used to subtract to numbers. The input would cause an error.",
+            "Creating an API is like building a vending machine. You design the machine to provide specific items (like snacks or drinks) to the user based on their request (such as pressing a button or inserting money). Similarly, when creating an API, you design it to provide specific functionality or data to the user based on their request. You program the API to understand the user\u0027s request and respond with the appropriate information or action, just like a vending machine dispenses the requested item. When using the vending machine, there are instructions on how to insert money and request the item that you want to purchase. An API is similar to providing instructions on how to use the library functions. What information does the user need to know in order to use the library functions?\n\nJust consider what would happen if a library expects list of numbers but instead the user sends a list of dates. The input would cause an error.",
+            "Creating an API is like building a toy construction set. The set has different pieces that can be put together in various ways to create different structures, like a castle or a spaceship. Similarly, when creating an API, different software components are designed and put together in various ways to create a set of features that can be accessed by other software applications. The API acts as the instruction manual that explains how the different components fit together and provides a standardized way for different applications to access the data or functionality they need. What information does the user need to know in order to use the library functions?\n\nImagine using a library function that is expected to multiple two numbers, but instead will format a String. The input would cause an error.",
+            "Great! Imagine you want to order a pizza from your favorite pizza place, but you don\u0027t want to go there in person. Instead, you call the pizza delivery service and place your order. The pizza delivery service acts as a middleman between you and the pizza place. They take your order, pass it on to the pizza place, and then deliver the pizza to your doorstep. The pizza place provides you with a menu that you can choose from. This is similar to an API. The API (delivery service) helps you interact with the pizza place without you having to directly go there or know how they make the pizza. \nWhat information does the user need to know in order to use the library functions?\n\nImagine the effect on a program if a library function adds two numbers, but the user expected the function to format a date. The input would cause an error."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

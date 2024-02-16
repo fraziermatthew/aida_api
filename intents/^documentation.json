@@ -1,0 +1,54 @@
+{
+  "id": "ff261780-1f1c-47fa-be49-79ca21df62a4",
+  "name": "^documentation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "018d941e-6d32-44c1-be47-b40c5aff3cb4",
+          "name": "definition",
+          "required": false,
+          "dataType": "@definition",
+          "value": "$definition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Code has plain written text called documentation that explains the code. A library should have documentation for the included functions that detail how each function works, a complete list of the parameters, and what (if anything) will be returned. Which of the following would you be interested in learning more about: libraries or functions?",
+            "Documentation is written text that accompanies software. What issues may arise if I attempted to utilize a function without understanding what it does or how to work with it? Each function that is included in a library should include documentation that explains how it operates, lists all of the parameters, and specifies what (if anything) will be returned.  No matter how excellent your code is, if the documentation is poor, other programmers won\u0027t even be able to use it. Which of these topics would you like to know about: testing or when to use an API?",
+            "The functionality of the code is communicated in the documentation using clear, concise written text. It doesn’t matter how good your code is, because if the documentation is not good enough, people will not use it. Choose the next topic to learn further about: seeing an example of an API or procedural abstraction.",
+            "What potential problems could come up if I tried to use a function without knowing what it does or how to interact with it? Imagine that you found a great library. However, when you start using the library, you look for examples, write-ups, or even official documentation on how to do something specific and can’t immediately find the solution. After searching, you come to realize that the documentation is lacking or even worse, missing entirely. This is a frustrating feeling that deters you from using the library, no matter how great or efficient the code is.m Documentation communicates in plain, simple written text the functionality of the code. Which subject interests you more: seeing an example of a library or APIs?",
+            "Documentation is significant to understanding the intention that the programmer had in mind while writing the functionality of code. When you write code, you write it for two primary audiences: your users and other developers (including yourself). Programmers should document how each function works, a complete list of the parameters, and what (if anything) will be returned. Which topic interests you more: an example of APIs or libraries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

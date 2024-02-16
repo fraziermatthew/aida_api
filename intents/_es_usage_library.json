@@ -1,0 +1,63 @@
+{
+  "id": "9f4760a7-5299-4498-87fa-d648ef7ca3ff",
+  "parentId": "3f49f818-4ab8-4bd6-a770-3cf9ed982c02",
+  "rootParentId": "3f49f818-4ab8-4bd6-a770-3cf9ed982c02",
+  "name": "*es_usage_library",
+  "auto": true,
+  "contexts": [
+    "es_usage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_usage.es_usage-custom-2",
+      "affectedContexts": [
+        {
+          "name": "es_usage_library-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b470ab5e-4385-4fbe-b706-987d6d26e20d",
+          "name": "libraryusage",
+          "required": false,
+          "dataType": "@libraryUsage",
+          "value": "$libraryusage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "As a programmer, never reinvent the wheel if you don\u0027t have to. You should use a library if your program is implementing a common function that someone else has already implemented that can be reused. You should create a library if a library does not already exist, your program can be highly generalized, and others find value in reusing your library\u0027s functions. You should not create a library when one already exists of your functions, your library is highly specific to your application, or when others will not reuse your library.\n\nWhat issues might arise if a user tries to use a library function without understanding what it does or how to utilize it? Here\u0027s a hint 🙋‍♀️... when you misuse a function this leads to errors.",
+            "Libraries of functions solve common problems. For this reason, most libraries are born out of a larger project. You discover that some functions could be useful in other projects, so you extract the code and begin maintaining the reusable code separately. \n\nYou should use a library if your program is attempting to implement a function that is already commonly reused. You should create your own library if one does not already exist, your functions are highly correlated to an overall theme, and your functions can be highly generalized such that others find value in using your library. You should not create a library when one already exists of your functions, your library is highly specific to your application such that others will not reuse your library, or the functions aren\u0027t related to each other and shouldn\u0027t logically be packaged together.\n\nWhat potential problems could arise if a user tried to use your library without knowing how to interact with it? Want a clue 🕵️? Imagine you use a function that adds two numbers but you don\u0027t have clear instructions so instead of passing the function a number, someone uses a date instead.",
+            "Almost every function of code that you write should be made as reusable as possible from the beginning. This is one of the hallmarks of great software and it can\u0027t emphasize enough how important it is. \n\nIf your application is implementing a standard function that has already been developed and can be utilized by other programs, you should use a library. If a library does not already exist and your program\u0027s functions can be very broadly applied or if others will benefit from using your functions, then you should make a library. If a library for your functions already exists, when your library is extremely specialized for your application, or when others won\u0027t reuse your library, you shouldn\u0027t make one.\n\nWhat potential problems could come up if a user tried to use a function in the library without knowing what it does or how to interact with it? A clue for you 💁‍♀️: when you misuse a function this leads to errors.",
+            "The only reason to move some of your code for a given programming project in to a library is if you expect to reuse the particular API’s in other projects. If your software is attempting to implement a function that is already often reused, you should use a library. If there isn\u0027t currently a library and if your functions are closely related to a larger theme, you should make one. When one of your functions already exists, when your library is so specialized to your application that it cannot be reused by others, or when the functions are unrelated to one another and cannot logically be packaged together, you shouldn\u0027t establish a library.\n\nWhat issues might arise if a user tries to use a library function without understanding what it does or how to utilize it? Need a hint 💁‍♀️: debugging programming can occur from misusing functions.",
+            "Libraries are more likely to be a general purpose mechanism rather than application specific. You should use a library if your program is implementing a common function that someone else has already implemented that can be reused. You should create a library if a library does not already exist, your program can be highly generalized, and others find value in reusing your library\u0027s functions. You should not create a library when one already exists of your functions, your library is highly specific to your application, or when others will not reuse your library.\n\nWhat potential problems could come up if a user tried to use a function in the library without knowing what it does or how to interact with it? Here\u0027s something to ponder on... 🤔 if functions don\u0027t behave properly, then you have to debug the program."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

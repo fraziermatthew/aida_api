@@ -1,0 +1,512 @@
+[
+  {
+    "id": "f4e52fb9-5c59-412a-995f-ff5166c36c41",
+    "data": [
+      {
+        "text": "I\u0027m am not sure sorry ",
+        "userDefined": false
+      },
+      {
+        "text": "Aida",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8eed237b-7484-4d62-875e-684689d0a608",
+    "data": [
+      {
+        "text": "I don\u0027t know, could you tell me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e22817f-d8c9-4efc-b660-d04fe8da6b6f",
+    "data": [
+      {
+        "text": "copy code to them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "638e5474-fe5b-44a0-879d-e29916bf8b07",
+    "data": [
+      {
+        "text": "I would copy and paste and my program and give it to them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb3c28c0-169d-4db0-a8aa-2189ad0f88f2",
+    "data": [
+      {
+        "text": "I would send them a document with my code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec6a18d7-4bca-4e24-b65e-f8a7d7e5305e",
+    "data": [
+      {
+        "text": "I don\u0027t understand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53145c35-a271-4744-a7be-e3f20308c26b",
+    "data": [
+      {
+        "text": "Not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b8f61a5-7459-44f9-ade3-9a170bba43d6",
+    "data": [
+      {
+        "text": "idk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aadbbdd8-dc6d-4c35-bdc0-68b08d126e5e",
+    "data": [
+      {
+        "text": "I\u0027m not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c79433cd-94a2-4688-a288-dc6c1e487b8f",
+    "data": [
+      {
+        "text": "I would ",
+        "userDefined": false
+      },
+      {
+        "text": "make",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "API",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      },
+      {
+        "text": " and give it to my friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97ba2379-fff7-4bab-88be-55d8a7ecc6b6",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41fcc058-8c02-45de-87d0-ee119df27da5",
+    "data": [
+      {
+        "text": "make a guide for how to use the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c5ff85e-0071-4d0f-b3c4-7c941b29a13d",
+    "data": [
+      {
+        "text": "give a guide with the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b252858f-2ffe-4f67-bf81-848dbda00ca0",
+    "data": [
+      {
+        "text": "I can share the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " with a guidebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f5b81ad-5d32-4a36-8642-221deba2f5bb",
+    "data": [
+      {
+        "text": "I can share the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " with instructions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cfe148d-4bd6-4c50-8a9a-edaa9b658bab",
+    "data": [
+      {
+        "text": "Having a guide to the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s use could be ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " solution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62c5e735-76cb-4643-8ba8-2be15213543e",
+    "data": [
+      {
+        "text": "have a list of instructions on how to use the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9c5e57-89d5-4120-a361-c77eebd9a81c",
+    "data": [
+      {
+        "text": "One way could having an guide to the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " to use it correctly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9be8f76-cd49-435d-ae5d-916f598fdaec",
+    "data": [
+      {
+        "text": "I don\u0027t really know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dab7e98f-2c96-4d42-8e87-94800b919d43",
+    "data": [
+      {
+        "text": "I\u0027d create a ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": true
+      },
+      {
+        "text": " to give to my friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ae388bf-e2c3-4669-b321-de0e407df112",
+    "data": [
+      {
+        "text": "copy and paste the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " and share the code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ab31d4a-ff34-471f-9c5d-6fabc2580be8",
+    "data": [
+      {
+        "text": "email the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " to your friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e70517fc-2e02-407d-a744-42e78f5346ec",
+    "data": [
+      {
+        "text": "Maybe one way would be to copy and paste the function on an blank document shared with your friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38442756-419c-4d06-812b-5a56b31d6c8f",
+    "data": [
+      {
+        "text": "I guess I\u0027d ask them how they want to receive my function code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "446b99ea-3d01-41d1-b565-ef904ea711ed",
+    "data": [
+      {
+        "text": "I\u0027d send a copy of my functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b30b9ff0-18cc-4a85-804e-13c04dd10d2f",
+    "data": [
+      {
+        "text": "I guess I\u0027d explain to them the functions that I wrote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51770d33-7852-4407-a0e1-fcb50af2dc14",
+    "data": [
+      {
+        "text": "I would tell them about my program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6989b28d-12a0-4bf8-bcc7-6d0373da25b5",
+    "data": [
+      {
+        "text": "I would export my code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4080fde-21ba-4a12-b92f-06021bc7be53",
+    "data": [
+      {
+        "text": "I would send them my program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b17d0e-89ce-4e41-a1b0-821004a22f6f",
+    "data": [
+      {
+        "text": "I would give them the code and tell them how to use it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

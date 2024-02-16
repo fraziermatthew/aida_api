@@ -1,0 +1,58 @@
+{
+  "id": "8d4f9d2d-5d82-4332-8134-d33441d142d1",
+  "parentId": "9f4760a7-5299-4498-87fa-d648ef7ca3ff",
+  "rootParentId": "3f49f818-4ab8-4bd6-a770-3cf9ed982c02",
+  "name": "*es_usage_library_problems",
+  "auto": true,
+  "contexts": [
+    "es_usage_library-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_usage.es_usage-custom-2.es_usage_library-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bef491de-8137-4617-ab39-fa3edbe4cef8",
+          "name": "libraryprocess",
+          "required": false,
+          "dataType": "@libraryProcess",
+          "value": "$libraryprocess",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Imagine you have a really cool toy that does amazing things. But if you don\u0027t know how to play with it or what it does, it might not work the way you want or could even cause problems. The same thing can happen when using a function in programming without understanding it. You might get confusing results or errors, and it could make your program not work properly. It\u0027s important to learn about the functions you use and how to use them correctly, just like you would learn how to play with a new toy before using it.\n\nChoose the next topic to learn about: seeing an example of an API or modularity.",
+            "Consider owning a new toy that is really fun. However, if you don\u0027t know how to use it or what it does, it might not function as you\u0027d like or perhaps cause issues. Using a function in programming without comprehending it can result in the same outcome. Your program might not function properly if you receive unclear results or problems. Like learning how to play with a new toy before using it, it\u0027s crucial to understand the functionalities you utilize and how to use them correctly.\n\nWhich of the following would you be interested in learning more about:  how to create an API or modularity?",
+            "When creating a library, there are a few problems we need to avoid. One is making the library too complicated. Just like a book with too many big words can be hard to understand, a library with complicated functions can be confusing for people who want to use it. Another problem is not organizing the library properly. It\u0027s like having a messy room where you can\u0027t find anything you need. So, we need to keep things neat and organized in the library.\n\nTo make sure libraries are helpful for others, we follow some conventions or rules. One convention is to give functions clear and descriptive names, like using simple words that explain what the function does. This helps people understand what the function is for. We also use consistent formatting and style, like using the same indentation and spacing, so everything looks nice and readable. These conventions make it easier for people to understand and use the library effectively.\n\nWhich of these topics would you like to know about: the role of APIs, when to use APIs, or when to use libraries?",
+            "If a user tries to use a function in a programming library without understanding what it does or how to use it, a few problems can occur.\n\n1. Incorrect results: The function might not give the expected output or produce incorrect results because the user doesn\u0027t know how to use it properly. It\u0027s like trying to solve a math problem without understanding the steps, which can lead to the wrong answer.\n\n2. Errors and crashes: Using a function without knowing how to interact with it can cause errors in the program or even make it crash. It\u0027s similar to using a tool without knowing how to handle it, which can lead to accidents or damage.\n\n3. Wasted time and frustration: Trying to use a function without understanding it can be time-consuming and frustrating. It\u0027s like trying to build something without reading the instructions, leading to confusion and difficulties.\n\nTo avoid these problems, it\u0027s important to learn about the function, understand its purpose, and follow the instructions or guidelines provided with it. This way, the user can use the function correctly and get the desired results.\n\nWhat else are interested in learning more about? I assist you in learning about APIs or libraries. I can explain what each one is, the role of each, how to use it, give you examples, and tell you when to utilize them or not",
+            "If a user tries to use a function in a programming library without understanding it, they may face problems like unexpected outcomes, program errors, and difficulty troubleshooting. To avoid these problems, it\u0027s important to understand the function\u0027s purpose, read the instructions, and learn how to use it correctly. This ensures desired results and prevents unnecessary errors.\n\nWhat else would you like to learn? I can explain libraries to you, give you an example of a library, tell you when to use libraries and when you shouldn\u0027t, and go over its applications. What about libraries would you like to learn next?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "4c9f13b7-4ca0-40e1-ab7f-83b0a9b336d3",
+  "parentId": "8cc3ad85-58f1-4894-bb4e-e927776bfad9",
+  "rootParentId": "8cc3ad85-58f1-4894-bb4e-e927776bfad9",
+  "name": "*es_cs_ex_library",
+  "auto": true,
+  "contexts": [
+    "es_cs_ex-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_cs_ex.es_cs_ex-custom-2",
+      "affectedContexts": [
+        {
+          "name": "es_cs_ex_library-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2922cedc-162e-409e-9914-5b931190e208",
+          "name": "libraryExample",
+          "required": false,
+          "dataType": "@libraryExample",
+          "value": "$libraryExample",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Suppose that we have the following variable:  \n\nvar myNumber \u003d 15.7;\n\nAn example of a Math library provides mathematical formulas or common equations that can be applied to numbers. There are several functions in the Math library. For example, Math.round(), Math.floor(), and Math.ceil().\n \nMath.round() returns the value of a number rounded to the nearest integer. Math.floor() always rounds down and returns the largest integer less than or equal to a given number. Math.ceil() always rounds up and returns the smaller integer greater than or equal to a given number.\n\nUsing the library, you could apply the library functions to myNumber;\n\nIn this example, myNumber.round() equals 16.0, myNumber.floor() equals 15.0, and myNumber.ceil() equals 16.0.\n\nWhat else are interested in learning more about? I assist you in learning about documentation or modularity.",
+            "Awesome! Suppose that we have the following variable:  \n\nvar today \u003d new Date();\n\nAn example of a Date library provides common equations and formatting that can be applied to dates. There are several functions in the Date library. For example, Date.getDay(), Date.getMonth(), and Date.getFullYear().\n\nIn this example, today.getDate() will return today\u0027s date (e.g. 2023-03-22), today.getMonth() will return the current month (e.g. 03), and today.getFullYear() will return the current year (e.g. 2023).\n\nWhich of these topics would you like to know about: the role of APIs, when to use APIs, or when to use libraries?",
+            "Of course! Suppose that we have the following variable:  \n\nvar today \u003d new Date();\n\nAn example of a Date library provides common equations and formatting that can be applied to times. There are several functions in the Date library. For example, Date.getHours(), Date.getMinutes(), and Date.getSeconds().\n\nIf the current time is 06:30:23 AM,  in this example, today.getHours() will return the current hour (e.g. 06), today.getMinutes() will return the current minute (e.g. 30), and today.getSeconds() will return the current second (e.g. 23).\n\nWhich of the following would you be interested in learning more about:  function parameters or how to create an API?",
+            "Certainly! Suppose that we have the following variable:  \n\nvar myString \u003d \"This or that\"\n\nAn example of a String library provides common operations and formatting that can be applied to strings. There are several functions in the String library. For example, String.length, String.substring(start, end), and String.split().\n\nIn this example, myString.length will return the count of the number of characters in the string (e.g. 12), myString.substring(0, 4) will return the substring of the first 4 characters in the string (e.g.\"This\"), and myString.split(\" \") will return a list of strings that are split on the space (e.g. [\"This\", \"or\", \"that\"]).\n\nWhich topic interests you more: what is an API or procedural abstraction?",
+            "Absolutely! Suppose that we have the following variable:  \n\nvar myList \u003d [\"This\", \"or\", \"that\", \"test\"]\n\nAn example of a List library provides common operations and formatting that can be applied to lists. There are several functions in the List library. For example, List.insertItem(item), List.sort(), List.removeItem(item).\n\nIn this example, myList.insertItem(\"Samuel\") will add the word test to the list (e.g. [\"This\", \"or\", \"that\", \"test\", \"Samuel\"]), myList.sort() will return a sorted list (e.g. [\"This\", \"or\", \"test\", \"that\"]), and myList.removeItem(\"test\") will return a list with the item \"test\" removed (e.g. [\"This\", \"or\", \"that\"]).\n\nChoose the next topic to learn about:  testing a function or debugging."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

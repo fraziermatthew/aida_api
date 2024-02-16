@@ -1,0 +1,387 @@
+[
+  {
+    "id": "b29d8f75-53c5-45a7-962e-b2c71360975c",
+    "data": [
+      {
+        "text": "Lets learn about ",
+        "userDefined": false
+      },
+      {
+        "text": "APIs",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "393815ae-75eb-4ebf-8921-516fd23a9f8b",
+    "data": [
+      {
+        "text": "what do I need to keep in mind when creating an ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e9830f4-23f3-43ae-ba90-9ae98dd67a84",
+    "data": [
+      {
+        "text": "What would you have to know about how your friends intend to use the reusable code from your program to know how to build a library and ",
+        "userDefined": false
+      },
+      {
+        "text": "API",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e214dab-77ba-48e2-b6f9-fde05329388f",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "API",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      },
+      {
+        "text": " stand for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c801566b-de11-4674-98b1-c4d19193a51e",
+    "data": [
+      {
+        "text": "What does an ",
+        "userDefined": false
+      },
+      {
+        "text": "API",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      },
+      {
+        "text": " stand for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97d402d7-9523-457f-8036-74e97dc50f38",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      },
+      {
+        "text": " mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0c5fbb5-2741-4d21-80cd-9aa20ae03060",
+    "data": [
+      {
+        "text": "define ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9606f70-9259-4d0d-b577-8a988c9ba954",
+    "data": [
+      {
+        "text": "definition ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee41d9e8-c2ac-4c0a-913a-df100e0560ab",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a0ecfc4-8ae5-4336-adff-b6571218b1ea",
+    "data": [
+      {
+        "text": "what do you know about ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d06d920f-31ef-4f0a-9274-2e03e15c76dc",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e25949a9-7528-4f4d-9b97-d80ba4bf98f9",
+    "data": [
+      {
+        "text": "I\u0027m interested in learning about ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "734874e2-a605-4aaa-9743-667e745f8f7e",
+    "data": [
+      {
+        "text": "I\u0027m curious about ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21f028df-6f03-46b3-81e7-7eba011c0977",
+    "data": [
+      {
+        "text": "I\u0027m interested in ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89939378-cd78-4e2d-80a4-429c0f423722",
+    "data": [
+      {
+        "text": "I want to learn about ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dea74c8-5c3a-4e98-8412-3f07d9d12d5b",
+    "data": [
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "what is",
+        "userDefined": false
+      },
+      {
+        "text": " it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6806f175-6c67-43d1-944b-3c352dbdc641",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c13e09e9-c09c-4e5e-91bd-f4daede533fc",
+    "data": [
+      {
+        "text": "what\u0027s an ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26297517-468d-46d9-9a46-d45cecdf2144",
+    "data": [
+      {
+        "text": "what is an ",
+        "userDefined": false
+      },
+      {
+        "text": "api",
+        "meta": "@api",
+        "alias": "api",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

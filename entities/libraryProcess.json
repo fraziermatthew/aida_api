@@ -1,0 +1,9 @@
+{
+  "id": "fecd55fa-c6f1-4782-a1cc-7d625d143259",
+  "name": "libraryProcess",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

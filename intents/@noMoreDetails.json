@@ -1,0 +1,39 @@
+{
+  "id": "36873387-d962-4411-bcac-7ecbf9447b89",
+  "name": "@noMoreDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Choose a topic to learn about further: when to use libraries or when to create libraries. Or are you all done with learning for today?",
+            "Would you be further interested in learning more about APIs or the process of creating a library? Or are you all done with learning for today?",
+            "Which of the following would you be interested in learning further about: documentation or seeing an example of an API? Or are you all done with learning for today?",
+            "Which subject interests you next: procedural abstraction or when to use APIs? Or are you all done with learning for today?",
+            "Which topic interests you more: functions or the process of creating APIs? Or are you all done with learning for today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

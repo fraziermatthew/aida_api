@@ -1,0 +1,197 @@
+[
+  {
+    "id": "ff18d06a-0e54-4bd6-b340-95f30d261d8c",
+    "data": [
+      {
+        "text": "advice on when not to use a library",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "591b6517-1912-4250-8d5b-28430d925e7d",
+    "data": [
+      {
+        "text": "advice on when to use a library",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f53eeb4b-a9ef-4ade-be01-626454a60ac7",
+    "data": [
+      {
+        "text": "advice on using libraries",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5ee7a51-67a9-456b-bfc2-ecad9bf8f143",
+    "data": [
+      {
+        "text": "libraries usage",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb5b2036-6cab-44b0-a743-3d9244496dea",
+    "data": [
+      {
+        "text": "library usage",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61e4e52f-9ce4-4840-9224-84c26643daa5",
+    "data": [
+      {
+        "text": "when not to use a library",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52323bd1-4f8c-4fb1-bd44-dc95dfbb211b",
+    "data": [
+      {
+        "text": "when not to use libraries",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb34c7c5-66df-4aa8-ac67-231ef6cf7038",
+    "data": [
+      {
+        "text": "using a library",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "823b4616-984a-47d8-b7fc-eea82a086761",
+    "data": [
+      {
+        "text": "using libraries",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eb26080-c349-4fb4-8e10-b73d2e34b601",
+    "data": [
+      {
+        "text": "when to use library",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a93e2f8-59b3-40c0-b439-25187a364d64",
+    "data": [
+      {
+        "text": "when to use libraries",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17dece5e-4866-4ef0-8986-be53e98fca49",
+    "data": [
+      {
+        "text": "libraries",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f1e18b0-7023-4417-9086-67b387b7e3cc",
+    "data": [
+      {
+        "text": "library",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "df9606a3-e477-46b2-8cdb-7a9e788f14c2",
+  "name": "^proceduralAbstraction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2df370c4-7579-47fb-a217-b35109c366a1",
+          "name": "process",
+          "required": false,
+          "dataType": "@process",
+          "value": "$process",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Extracting shared features to generalize functionality is known as procedural abstraction. There are benefits of hiding all of the code of a function in a library. Using procedural abstraction helps improve code readability. Choose the next topic to learn about: debugging or APIs.",
+            "Procedural abstraction manages complexity by allowing for code reuse. For example: the function move(id, direction) could be used to move an element in any direction, rather than writing separate functions for each direction. Which of the following would you be interested in learning more about: an example of APIs or libraries?",
+            "Procedural abstraction provides a name for a process and allows the procedure (function) to be used only knowing what it does, and not necessarily how it does it. This is how our libraries work! Which of these topics would you like to know about: modularity or see an example of an API?",
+            "Procedural abstraction is the process of developing a program by breaking up a large problem into smaller sub-problems. This makes your code easier to read, and once you\u0027ve coded and debugged, you don\u0027t need to think about how it works each time you use it. That\u0027s the beauty of procedural abstraction. Which of these topics would you like to know about: APIs or modularity?",
+            "This is how our libraries work! Procedural abstraction is when we know what a method or procedure does, or what we want it to do, but we do not know how it does it. What are benefits of hiding all of the code of a function in a library? When using procedural abstraction, it improves code readability. Which subject interests you more: documentation or an example of libraries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

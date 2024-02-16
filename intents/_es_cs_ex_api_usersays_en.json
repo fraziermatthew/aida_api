@@ -1,0 +1,107 @@
+[
+  {
+    "id": "dc49a501-9d90-45c9-86f0-f2209e0db8d5",
+    "data": [
+      {
+        "text": "I want APIs",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18af2182-5f5e-4b4d-9c32-43185249dfd8",
+    "data": [
+      {
+        "text": "i want to see an example of APIs",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "947f6d9b-5ea1-40fa-bcc7-87ea75a136ac",
+    "data": [
+      {
+        "text": "show me an example of an API",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d04b2a86-deb6-4357-9eb3-30f1c3eb8145",
+    "data": [
+      {
+        "text": "example of an API",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12ce92bf-ccfb-4f2e-8446-383fa5643705",
+    "data": [
+      {
+        "text": "api example",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97900587-4ef4-4955-96aa-615deed7a125",
+    "data": [
+      {
+        "text": "APIs",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af707b1f-f423-4ae9-b5eb-94c26b9ce855",
+    "data": [
+      {
+        "text": "api",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

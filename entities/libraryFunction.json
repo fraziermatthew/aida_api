@@ -1,0 +1,9 @@
+{
+  "id": "76d76bee-b2e5-4440-8ede-5c0c56c0aabf",
+  "name": "libraryFunction",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

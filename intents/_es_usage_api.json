@@ -1,0 +1,58 @@
+{
+  "id": "00375322-2ac9-44c5-a0e9-7356d51344aa",
+  "parentId": "3f49f818-4ab8-4bd6-a770-3cf9ed982c02",
+  "rootParentId": "3f49f818-4ab8-4bd6-a770-3cf9ed982c02",
+  "name": "*es_usage_api",
+  "auto": true,
+  "contexts": [
+    "es_usage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_usage.es_usage-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91f0f523-c3ca-477a-b82d-8b6e95d0695f",
+          "name": "apiUsage",
+          "required": false,
+          "dataType": "@apiUsage",
+          "value": "$apiUsage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "APIs explain and provide examples for the functions in a library. You should always refer to the API documentation when using a library. You should always aim to create API documentation when creating a library. One hallmark of when not to use a API is if the library is no longer maintained by developers. If you have a problem with the API documentation and the library is no longer maintained, you should consider implementing the function on your own or finding a different actively managed library to use instead.\n\nWould you like to see an example of APIs? If not, want to learn about the usage of libraries?",
+            "APIs describe and show examples of a library\u0027s functions. When utilizing a library, you must always refer to the API documentation. When building a library, you should always try to write API documentation. When an API should not be used, for example, is when developers no longer maintain the library. Consider implementing the function on your own or using another actively managed library if the library is no longer being maintained and you are having issues with the API documentation. If you would like to see an example of APIs, let me know.\n\nOtherwise, to learn more, ask me about using functions or parameters.",
+            "APIs provide descriptions and examples of a library\u0027s functions. The API documentation must always be considered while using a library. You should always try to write API documentation when creating a library. An example of when an API shouldn\u0027t be used is when the library\u0027s creators have stopped maintaining it. If you are having problems with the API documentation and the library is no longer being updated, think about implementing the function on your own or utilizing another actively managed library.\n\nLet me know if you\u0027d like to view an example of APIs. If not, if you\u0027re curious able when to use libraries, ask me about when to use libraries.",
+            "While utilizing a library, the API documentation must always be consulted. APIs offer explanations and examples of how the functionalities of a library work. When building a library, you should always make an effort to write API documentation. Consider implementing the function on your own or using another actively managed library if you are having issues with the API documentation and the library is no longer being updated. When the developers of the library have stopped maintaining it is an instance of why an API shouldn\u0027t be utilized.  If you\u0027d want to see an example of APIs, let me know.\n\nMoving on, would you like to learn when to use or not to use libraries?",
+            "The API documentation must always be consulted while using a library. APIs provide descriptions and examples of a library\u0027s functions. You should always try to write API documentation when creating a library. If you are having problems with the API documentation and the library is no longer being updated, think about implementing the function on your own or utilizing another actively managed library. An example of when an API shouldn\u0027t be used is when the library\u0027s creators have stopped maintaining it and the library is known to be unstable. Please let me know if you\u0027d want to see an example of APIs.\n\nWhich of the following would you be interested in learning more about: testing or procedural abstraction?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

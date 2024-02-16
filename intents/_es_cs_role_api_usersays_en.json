@@ -1,0 +1,287 @@
+[
+  {
+    "id": "e3ccee3c-7690-408a-9085-587aeebc4404",
+    "data": [
+      {
+        "text": "why do we use APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "748b2073-4348-4681-a3fe-fce54e567269",
+    "data": [
+      {
+        "text": "why do I create APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cbbd632-c7a8-45e2-a890-b60d33073556",
+    "data": [
+      {
+        "text": "whats the purpose of APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2878dd83-dc1e-4279-a0eb-62e2e7b523b8",
+    "data": [
+      {
+        "text": "what is the purpose of APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02feab43-3cb8-44de-8ea6-c0ededae98f2",
+    "data": [
+      {
+        "text": "whats the role of API",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc403322-5d33-4679-94eb-735abdcea68b",
+    "data": [
+      {
+        "text": "API meaning",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0c5c1bf-cae7-4909-aa32-4e1005411ce6",
+    "data": [
+      {
+        "text": "API function",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46112c6b-f8b9-4c04-9b98-13eb47a2bda1",
+    "data": [
+      {
+        "text": "API role",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e19f264-5b5b-4960-bfaf-d63c6aff02ce",
+    "data": [
+      {
+        "text": "I want to learn about the role of an API",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65b1f0e0-38e7-4dde-a741-eb8a304fda09",
+    "data": [
+      {
+        "text": "I want to learn about APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0155ea5d-ba9b-4847-8114-d419c870ccd9",
+    "data": [
+      {
+        "text": "api",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a422cffa-decc-432e-98f0-e53164f1b1ca",
+    "data": [
+      {
+        "text": "whats the role of APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05781bd7-26b0-4468-bf74-0d523f2b71f7",
+    "data": [
+      {
+        "text": "I want APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b977975-151c-46ea-b81b-aab79d04b196",
+    "data": [
+      {
+        "text": "what is the function of an API",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67c22e56-eff8-45e8-86cb-e3f8d16e7674",
+    "data": [
+      {
+        "text": "what are APIs important",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "966e7b31-1adf-4915-aa9b-926bf5b5cc23",
+    "data": [
+      {
+        "text": "why do I need an API",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d42e995c-808e-4f30-88f7-5ef1be5e6f47",
+    "data": [
+      {
+        "text": "what is the role of an API",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ee71eda-2d3e-40b7-a39c-ec85bddcf569",
+    "data": [
+      {
+        "text": "an api",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8eeaaf4e-2cd2-4024-baba-d3f60a7c3222",
+    "data": [
+      {
+        "text": "APIs",
+        "meta": "@apiFunction",
+        "alias": "apiFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

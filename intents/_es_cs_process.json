@@ -1,0 +1,57 @@
+{
+  "id": "f8cd3f68-78cc-427c-b89c-3537efa53d81",
+  "name": "*es_cs_process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "es_cs_process-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7844f834-a230-4b4f-b00d-fb06614b3dc0",
+          "name": "process",
+          "required": false,
+          "dataType": "@process",
+          "value": "$process",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What process would you like to see? How do create an API or how to create a library?",
+            "What process do you want to see? How to create libraries or creating APIs?",
+            "Which process would you like to learn about? Creating APIs or how to make a library?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "136b157d-c23a-44e0-9ece-f6c58d86b7cc",
+  "name": "^parameterArgument",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca53c98b-4066-4371-a80b-035721222578",
+          "name": "definition",
+          "required": false,
+          "dataType": "@definition",
+          "value": "$definition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A parameter is a variable in a function definition. It\u0027s used as a placeholder for values that will be passed through the function. Using parameters allows the functions (also called procedures) to be generalized. An argument is the value passed to the parameter.  Choose the next topic to learn about: libraries or debugging.",
+            "A parameter is the input name of a function. The input name is set in the function definition. It never changes. An argument is the input value. The input value is given each time the function is run; it can be a different value each time. We use the word \"input\" both for parameters (input names) and for arguments (input values). Choose the next topic to learn about: how to create a library or testing.",
+            "A variable in a function definition is called a parameter. Parameters are used as placeholders for the values that will be supplied to the function. Functions (also known as procedures) can be generalized by using parameters. The value supplied to the parameter is called an argument. Which of these topics would you like to know about: what are return values or when to use a library?",
+            "The name of the input to a function is known as a parameter. The function definition specifies the input name. The input value is known as an argument. Every time the function is executed, a new input value, which can vary, is provided. Which subject interests you more: procedural abstraction or the role of libraries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

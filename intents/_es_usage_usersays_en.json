@@ -1,0 +1,512 @@
+[
+  {
+    "id": "f3c2c806-8997-47da-87c1-9fc6e91d1302",
+    "data": [
+      {
+        "text": "What potential problems to avoid",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " when creating an library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95aabddb-8fe4-4824-8b06-5e5cc5f7bca7",
+    "data": [
+      {
+        "text": "What should i avoid when",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " creating a library?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b4748d4-cf1c-4fdc-bbbf-73d9eca3fe99",
+    "data": [
+      {
+        "text": "the key points that you need to keep in mind while you\u0027re creating",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " a library and API",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "578444ec-7f50-4925-b327-88da3da145b0",
+    "data": [
+      {
+        "text": "advice on when not to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " libraries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ef5640e-dfc7-4bc5-93b5-9340beb5a363",
+    "data": [
+      {
+        "text": "advice on when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " libraries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e06d41f7-a299-45b3-a4e0-3fe5e6d72beb",
+    "data": [
+      {
+        "text": "advice on when not to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " APIs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b81c20a-a58d-4fe6-8670-931d7f299950",
+    "data": [
+      {
+        "text": "advice on when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " APIs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdc8bb3e-687c-4087-a5cd-f2eaad8e1052",
+    "data": [
+      {
+        "text": "how APIs are used",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1180867-38a2-4113-b958-66e3f1b5c7d4",
+    "data": [
+      {
+        "text": "how libraries are used",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45dab136-ddda-46d3-a6cd-dc5ec56de741",
+    "data": [
+      {
+        "text": "When do people use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " libraries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92b35ef0-24c2-43e5-9556-fad3c4822d57",
+    "data": [
+      {
+        "text": "When do people use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " API?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d0860d8-e411-427b-9f73-6f25a293a543",
+    "data": [
+      {
+        "text": "when should I take into account",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "APIs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8ab570b-c8bc-4308-8a04-8b9da2dc9b4b",
+    "data": [
+      {
+        "text": "when should I take into account",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "libraries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e98d245c-39fc-440f-888f-7214b4bf1c59",
+    "data": [
+      {
+        "text": "when should I account for",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "libraries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34c35886-e91e-4bf5-a54a-e0bd8077323a",
+    "data": [
+      {
+        "text": "when should.I consider",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "libraries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a99f54c3-3f53-4168-87c3-39904db7bf48",
+    "data": [
+      {
+        "text": "when should I consider",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "APIs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61560d64-86e6-4930-aba0-b24010d67734",
+    "data": [
+      {
+        "text": "when don\u0027t I use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "APIs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "172e9e04-2a51-49e1-8e24-530cfc0b11af",
+    "data": [
+      {
+        "text": "when do I not use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " libraries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4615b6c1-dd67-4db4-b90d-33b9289e768a",
+    "data": [
+      {
+        "text": "when do I not use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " a library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "868ccab0-91a8-4f5a-8512-6baf7bf14ed8",
+    "data": [
+      {
+        "text": "when do I not use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " an API",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8e616f3-92d7-4f6d-ac00-0fff9c5e6905",
+    "data": [
+      {
+        "text": "when do I use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a92677ab-c802-4a67-9f60-3f42316d4975",
+    "data": [
+      {
+        "text": "when do I use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "libraries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "191afebf-7aa9-480b-b30a-5dd363d2e25a",
+    "data": [
+      {
+        "text": "when do I use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "API",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee2b7a80-daf0-4f6e-96dc-8bf09907753f",
+    "data": [
+      {
+        "text": "usage",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "758f7dd4-5bfa-4791-b851-16cc54955db2",
+    "data": [
+      {
+        "text": "when not to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "783ae40b-886c-475b-b340-71ff12e5b69e",
+    "data": [
+      {
+        "text": "when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

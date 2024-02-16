@@ -1,0 +1,663 @@
+[
+  {
+    "id": "19cb39c5-ed05-4b7c-aa30-2a422a09c5c0",
+    "data": [
+      {
+        "text": "I\u0027m am not sure sorry ",
+        "userDefined": false
+      },
+      {
+        "text": "Aida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67adc716-8417-4aab-9efc-b5fc7e4e64e1",
+    "data": [
+      {
+        "text": "I don\u0027t know, could you tell me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ded62e6-339f-428b-9833-1047503152c9",
+    "data": [
+      {
+        "text": "documentation is great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dadd39a-2319-44a2-8e99-06d798cfb139",
+    "data": [
+      {
+        "text": "effective error handling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9df29632-27e5-4bbd-8cf9-3bb950cc1619",
+    "data": [
+      {
+        "text": "limited side effects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be2cdf96-eca6-44bf-8e9a-8fa8c1bdc163",
+    "data": [
+      {
+        "text": "testability",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62985374-a859-440e-9a35-92710a2e7a96",
+    "data": [
+      {
+        "text": "it is scalable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "577b7674-7029-4fc2-a6d8-f42e93483b3b",
+    "data": [
+      {
+        "text": "you can use the function many times",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99abccb5-4a80-47a6-bec8-7fe6cbcf89d7",
+    "data": [
+      {
+        "text": "it can be reused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7796c242-4e8d-4129-9572-c4e0a20db7a1",
+    "data": [
+      {
+        "text": "reliable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8e8dcc6-2db2-4e46-838b-13d531fa8ed8",
+    "data": [
+      {
+        "text": "modular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f03f7b0-0969-4eae-9af8-c127ba5a7fbb",
+    "data": [
+      {
+        "text": "modularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69475573-bc65-4ee3-a072-2e15cd7298db",
+    "data": [
+      {
+        "text": "reuseability",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65f7a9fe-4e88-465b-9812-b379e5ce052b",
+    "data": [
+      {
+        "text": "scalability",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da50db4-8f82-47e5-a020-be19e2e080ad",
+    "data": [
+      {
+        "text": "reliability",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "569e2b05-f373-4ab5-9425-cc422f86caea",
+    "data": [
+      {
+        "text": "reusable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f49b66f9-93f4-48e0-a7bb-82cbed24deeb",
+    "data": [
+      {
+        "text": "correct result",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c926361-c0bd-4c48-a696-b19f0686c6b0",
+    "data": [
+      {
+        "text": "correct",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c89e3b5-a9ed-425f-849c-b051a085a97b",
+    "data": [
+      {
+        "text": "right",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd98971e-2c25-4d6b-ad54-114e7fecda54",
+    "data": [
+      {
+        "text": "accuracy",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0664aae-af89-44a9-8d0d-b060f567a1ff",
+    "data": [
+      {
+        "text": "correct return value",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c11bc42-2245-4678-a89c-0a2b11111287",
+    "data": [
+      {
+        "text": "accurate answer",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14796b2f-2cf3-4091-b85c-0d4c77639820",
+    "data": [
+      {
+        "text": "accurate result",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35fb9c48-3f74-4d80-b42b-ed32f87be379",
+    "data": [
+      {
+        "text": "consistent output",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27979f6e-d792-4d48-af69-26c807323a30",
+    "data": [
+      {
+        "text": "right answer",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa66f5c9-4a16-4c43-abcf-69a4dae6ac36",
+    "data": [
+      {
+        "text": "consistent accurate answer",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e24c571-3281-4340-83a2-8d8235813a3b",
+    "data": [
+      {
+        "text": "always correct answer",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e369a8e-d09e-4ac8-b77e-d62410868fe9",
+    "data": [
+      {
+        "text": "always gives the right answer",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3ba0aa8-509c-4713-a9ae-61d968f58414",
+    "data": [
+      {
+        "text": "answer is always correct",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f091ad8f-7fb1-4a5d-8f53-7e90527f3a0f",
+    "data": [
+      {
+        "text": "guaranteed correct result",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd408dbc-7aa4-40b3-882c-32d8a1737fef",
+    "data": [
+      {
+        "text": "always right answer",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c5f9bb3-3cb9-4ba2-9ba7-a25db408fb6f",
+    "data": [
+      {
+        "text": "consistently correct",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c845b5ef-e6a9-4a9b-b5ba-4afa367c1d68",
+    "data": [
+      {
+        "text": "always correct outcome",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2641121-f567-4e2d-ba33-6ec72c84d168",
+    "data": [
+      {
+        "text": "right result",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d35fdcb-9687-422c-a5b4-2f440aead8a5",
+    "data": [
+      {
+        "text": "correct output",
+        "meta": "@result",
+        "alias": "result",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "116c6d11-ddb2-4a3f-bfea-5b11cafd8e41",
+    "data": [
+      {
+        "text": "its different",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "684dcc5e-f9f0-4d09-a865-f1c495cf433e",
+    "data": [
+      {
+        "text": "I don\u0027t understand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4a190f5-21e9-4538-9ed9-dce3da4950ed",
+    "data": [
+      {
+        "text": "not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a10249f7-fe4f-4810-9d62-84b62ba7569e",
+    "data": [
+      {
+        "text": "I\u0027m not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "138df3c4-fecd-49e1-8ddb-163365d6574f",
+    "data": [
+      {
+        "text": "idk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b97bad8-c00c-478b-86a4-0d262a41bf56",
+    "data": [
+      {
+        "text": "i don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f58b9cd8-e869-453d-81c9-099b5c614576",
+    "data": [
+      {
+        "text": "it is easier to communicate how to use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "552d309d-9492-43bd-9acb-350d22b6e908",
+    "data": [
+      {
+        "text": "it is sort of the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cdfa40b-b2b9-42eb-95b3-c5d1b8d64640",
+    "data": [
+      {
+        "text": "It\u0027s different because I didn\u0027t create a document to explain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37d84200-5ac1-40de-a2da-67b26cf26a5e",
+    "data": [
+      {
+        "text": "Its different because I created a document to explain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40a7107d-efef-4cc7-a633-929494e68859",
+    "data": [
+      {
+        "text": "It\u0027s the same because I created a document to explain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d13bfcb-6178-42bd-9e3c-c4f894a239c5",
+    "data": [
+      {
+        "text": "If I were a chef ",
+        "userDefined": false
+      },
+      {
+        "text": "creating",
+        "userDefined": false
+      },
+      {
+        "text": " a menu, I\u0027d write all the ingredients and prices on the menu for my customers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

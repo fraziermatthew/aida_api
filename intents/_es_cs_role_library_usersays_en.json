@@ -1,0 +1,152 @@
+[
+  {
+    "id": "28c584e7-6e8b-45ba-a08a-42991b9eade1",
+    "data": [
+      {
+        "text": "what the purpose of libraries",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07428a9e-04ab-489b-886a-d8618627caf4",
+    "data": [
+      {
+        "text": "whats the purpose of a library",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24fb598e-6272-4564-a8b5-94b9dcdb914f",
+    "data": [
+      {
+        "text": "why do I create a library",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d5958ef-7e7b-4e29-a3e7-ddeed18a282f",
+    "data": [
+      {
+        "text": "why do we use a library",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41e7f9d9-7324-43cc-9798-a3cccfca5b72",
+    "data": [
+      {
+        "text": "why do we use libraries",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4abf1b7-aad2-4873-a360-a770c3d7da13",
+    "data": [
+      {
+        "text": "whats the role of libraries",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a69652af-b36f-478f-a738-611c2c7e240e",
+    "data": [
+      {
+        "text": "whats the role of a library",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f90f642-0521-4dc0-97cd-1773622cd36f",
+    "data": [
+      {
+        "text": "library of functions",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed18a421-7c42-40fa-93d3-3826a2d244b3",
+    "data": [
+      {
+        "text": "libraries",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bf04f0b-9e71-48ea-abf1-86d32fb94c7f",
+    "data": [
+      {
+        "text": "library",
+        "meta": "@libraryFunction",
+        "alias": "libraryFunction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "3ff9dd5d-6af8-401e-ae10-937c60d590bf",
+  "name": "^testing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f6d3f234-0708-4c94-89e0-fb9cce5ff56b",
+          "name": "definition",
+          "required": false,
+          "dataType": "@definition",
+          "value": "$definition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What does testing help us to know? To ensure that the functions in a library work as intended, you need to test it. Testing has advantages such as bug prevention, lower development costs, and better performance. Which of the following would you be interested in learning more about: documentation or libraries?",
+            "Software testing is the process of assessing and confirming that code (such as functions) performs as intended. The benefits of testing include preventing bugs, reducing development costs and improving performance. This can be done by:\n\n1. Writing tests or using print statements to test functions in a library\n2. Check that the output is what you would expect\n\nChoose the next topic to learn about: functions or APIs.",
+            "Software testing can be done by: \n1. Write tests for the function.\n2. Try different values to make sure your function works in many cases.\n3. Check the results in the console to make sure that the functions pass the test. \n\nWhich of these topics would you like to know about: function or modularity?",
+            "Why should we test the functions in the library? As you program, add tests to your functions to make sure they\u0027re working as you expect. Which of these topics would you like to know about: procedural abstraction or APIs?",
+            "Software testing is the process of evaluating and verifying that code (e.g. functions) does what it is supposed to do. Which subject interests you more, modularity or libraries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

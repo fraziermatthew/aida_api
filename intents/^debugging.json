@@ -1,0 +1,55 @@
+{
+  "id": "58877654-fce6-4eef-81c1-179108874f10",
+  "name": "^debugging",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0a7cc091-e12e-41c6-aab9-05930b8f4819",
+          "name": "definition",
+          "required": false,
+          "dataType": "@definition",
+          "value": "$definition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Debugging is the process of finding and fixing problems in code. Debug functions by calling the functions with parameters and see how calling them with different values returns different values. Which topic, functions or the role of libraries, would you like to know about next?",
+            "Debugging is the art of identifying errors in computer programs and fixing them. We debug to make sure you’re actually getting the information you want when the code is executing. Which topic, function parameters or the role of APIs, would you like to know more about?",
+            "The process of finding and fixing problems in code is debugging. Which topic interests you more: what is a library or testing a function?",
+            "The process of identifying and removing errors in computer code is debugging. Choose the next topic to learn further about: documentation or what is an API.",
+            "In computer programming and software development, debugging is the process of finding and resolving bugs (a.k.a. errors or problems) within computer programs.  Which of these topics would you like to know about: how to create a library or documentation?",
+            "The process of testing, finding problems, and fixing them is called debugging. Which topic, procedural abstraction or how to create an API, would you like to know more about?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

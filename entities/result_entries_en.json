@@ -1,0 +1,32 @@
+[
+  {
+    "value": "correct result",
+    "synonyms": [
+      "correct result",
+      "right answer",
+      "doesn\u0027t make mistakes",
+      "gives the right answer",
+      "inputs",
+      "paramaters",
+      "return values",
+      "incorrect results",
+      "wrong answer",
+      "function inputs",
+      "function parameters",
+      "function return values",
+      "scalability",
+      "testability",
+      "error handling",
+      "limited side effects",
+      "readability",
+      "it is easy to read",
+      "it is easy to test",
+      "it is easy to scale",
+      "modularity",
+      "reusable",
+      "reusability",
+      "reliable",
+      "reliability"
+    ]
+  }
+]

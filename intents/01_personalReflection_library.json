@@ -1,0 +1,60 @@
+{
+  "id": "1c8acfee-0080-48f9-8e1f-080d4b88d9bf",
+  "name": "01_personalReflection_library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "01_personalReflection_library-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "28e251bf-b45a-4266-9231-cdefaca53773",
+          "name": "library",
+          "required": false,
+          "dataType": "@library",
+          "value": "$library",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Libraries a way to group and share functions. How could you share a function with another person so they could use it in their own program?",
+            "Libraries are collections of functions. In order for someone to use a function in their own software, how could you share a function with another person?",
+            "A software library is a way to share a collection of functions. How could you share a function with someone else when someone needs to use it in their own software?",
+            "You can use a software library to distribute a collection of functions.  How could you share a function with another person so they could use it in their own program?",
+            "A collection of functions make up libraries. In order for someone to use a function in their own software, how could you share a function with another person?",
+            "To share a group of functions, use a software library.  How could you share a function with someone else when someone needs to use it in their own software?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

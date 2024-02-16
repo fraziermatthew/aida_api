@@ -1,0 +1,152 @@
+[
+  {
+    "id": "993c8de8-e483-4dd4-9077-3491ff8161b3",
+    "data": [
+      {
+        "text": "advice on using APIs",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d61f331-1135-4c55-a9b7-9b1c622b317b",
+    "data": [
+      {
+        "text": "advice on when not to use an API",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ce5bf07-3902-4c19-a8fa-fe0a277bcd8f",
+    "data": [
+      {
+        "text": "advice on when to use an API",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb401ece-65e2-4dd5-8bb0-b9a54a53a8f1",
+    "data": [
+      {
+        "text": "how to use API",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40c9178e-5bfe-4181-8854-ed22d6b99308",
+    "data": [
+      {
+        "text": "how to use an API",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36215e12-9eea-40dd-8ff4-39d7fc3d5850",
+    "data": [
+      {
+        "text": "using a API",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aff3a191-9159-40d1-9f87-3855abe1af9f",
+    "data": [
+      {
+        "text": "using APIs",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0b9799d-2334-48a7-a6f0-23557e72b7f7",
+    "data": [
+      {
+        "text": "when to use an API",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0664007-4418-4d06-8f5d-4bc3596b83bd",
+    "data": [
+      {
+        "text": "when to not use an API",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8877fafa-5388-4664-a537-1bb6c071f039",
+    "data": [
+      {
+        "text": "APIs usage",
+        "meta": "@apiUsage",
+        "alias": "apiUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

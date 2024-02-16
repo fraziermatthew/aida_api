@@ -1,0 +1,9 @@
+{
+  "id": "975173e3-0d01-4245-b285-e99343748eb6",
+  "name": "apiUsage",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,339 @@
+[
+  {
+    "id": "f72f7e6c-72d2-4c55-b9fe-c5c22a00e53c",
+    "data": [
+      {
+        "text": "I\u0027m am not sure sorry ",
+        "userDefined": false
+      },
+      {
+        "text": "Aida",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed62662b-ddce-4096-8482-9793722da142",
+    "data": [
+      {
+        "text": "I don\u0027t know, could you tell me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "595fac62-9ed8-49a5-8d1b-aa9d9617f555",
+    "data": [
+      {
+        "text": "write a document for them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bcda9ac-64d0-4e89-9c99-4910497e59b4",
+    "data": [
+      {
+        "text": "Not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0343d9bf-95e5-4877-844d-382692c0c45b",
+    "data": [
+      {
+        "text": "I\u0027m not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e5eb963-b89c-4d89-80d7-db2dac976676",
+    "data": [
+      {
+        "text": "I don\u0027t understand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceb0997e-a86c-4baf-b83b-2a609b78a8ba",
+    "data": [
+      {
+        "text": "idk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a4513fa-0a96-4ad0-ae06-549da852607d",
+    "data": [
+      {
+        "text": "i don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e9dbb63-4b75-4f7f-a719-b1a910b5c378",
+    "data": [
+      {
+        "text": "give the user a document with the functions as a guide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9acbe03b-f34c-451f-aaf0-cab5f7d045af",
+    "data": [
+      {
+        "text": "send the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@libraryUsage",
+        "alias": "libraryusage",
+        "userDefined": false
+      },
+      {
+        "text": " of functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19968485-85eb-42a5-8f15-5dc6276334ab",
+    "data": [
+      {
+        "text": "send the program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b27505cb-8a1c-4edf-99e6-f48dd253221b",
+    "data": [
+      {
+        "text": "send the code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4617e7f6-dcf0-44ab-a01a-333d5ada7c8c",
+    "data": [
+      {
+        "text": "send the functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f2993b5-6ec7-4c73-b567-244d0747a62c",
+    "data": [
+      {
+        "text": "document the functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe96a75e-480a-4c9f-9ab9-3138c4d9488e",
+    "data": [
+      {
+        "text": "give the person an ",
+        "userDefined": false
+      },
+      {
+        "text": "API",
+        "meta": "@apiExample",
+        "alias": "apiexample",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "017d9b30-fcd9-439d-b681-7b0eb8da50e3",
+    "data": [
+      {
+        "text": "write comments on the functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9b00cad-0232-4370-b61c-dc14ada18642",
+    "data": [
+      {
+        "text": "show them ",
+        "userDefined": false
+      },
+      {
+        "text": "examples",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71d7346b-9258-4796-ba6d-1a00aa0c802c",
+    "data": [
+      {
+        "text": "provide documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15398968-9087-4dbd-99c6-82e53bb70c1c",
+    "data": [
+      {
+        "text": "send my friends the function",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d462e172-36fd-4152-9972-bc4d1e8c8244",
+    "data": [
+      {
+        "text": "explain the functions to my friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d66178b-0e02-40e8-8187-7b7ceb0a65c5",
+    "data": [
+      {
+        "text": "give the documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b40bbd9-abb9-43d4-a6c9-67c9d87b4aa3",
+    "data": [
+      {
+        "text": "Maybe one way would be to cope and paste the function on an blank document shared with your friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1400817-635c-4124-82dc-298f86c79b51",
+    "data": [
+      {
+        "text": "One way could having an guide to the ",
+        "userDefined": false
+      },
+      {
+        "text": "library",
+        "meta": "@library",
+        "alias": "library",
+        "userDefined": false
+      },
+      {
+        "text": " to use it correctly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

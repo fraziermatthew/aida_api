@@ -1,0 +1,138 @@
+[
+  {
+    "id": "aead81d2-275c-4ee4-8499-56f31aaa3da0",
+    "data": [
+      {
+        "text": "writing documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8720ac88-3262-46b2-931e-5d12f535d0f7",
+    "data": [
+      {
+        "text": "documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "612658c7-3dd9-4a6c-94ab-462a633f9406",
+    "data": [
+      {
+        "text": "I\u0027m curious about documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c82e031d-9c32-4cd9-ad65-3239d965c98e",
+    "data": [
+      {
+        "text": "teach me about documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9631f18b-4b9a-4103-9333-cc72520b013e",
+    "data": [
+      {
+        "text": "I want to learn about documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77162bda-92cd-4083-a733-fe28fbd7ca8b",
+    "data": [
+      {
+        "text": "I\u0027m interested in documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a67e3b0-49c1-46e3-8e56-e9a4dae997e2",
+    "data": [
+      {
+        "text": "what\u0027s documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2c3904c-d46c-4801-9085-c87864cb7892",
+    "data": [
+      {
+        "text": "describe documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ef9890e-1cf5-4e44-b3ec-fdca675e3b9f",
+    "data": [
+      {
+        "text": "tell me about documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e3b62bb-d7d6-4010-a4fb-9f40d65333dc",
+    "data": [
+      {
+        "text": "what is",
+        "meta": "@definition",
+        "alias": "definition",
+        "userDefined": false
+      },
+      {
+        "text": " documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

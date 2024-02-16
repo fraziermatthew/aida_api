@@ -1,0 +1,9 @@
+{
+  "id": "fef9d44e-836f-415b-8704-e5ae242bc9cd",
+  "name": "libraryUsage",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

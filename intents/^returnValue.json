@@ -1,0 +1,54 @@
+{
+  "id": "5e73380e-eaa6-461f-a99c-dc642a328397",
+  "name": "^returnValue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "71a3c921-dd9b-48fe-91cb-0456680ed531",
+          "name": "definition",
+          "required": false,
+          "dataType": "@definition",
+          "value": "$definition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A function return value can be stored in a variable. It returns a value to the place where the function was called. Which subject interests you more, the role of APIs or documentation?",
+            "Return values are used to return the flow of control to the point where the procedure (also known as a function) was called and to return the value of expression. Which subject interests you more: the role of libraries or what are function parameters?",
+            "A return is a value that a function returns to the calling script or function when it completes its task. Which of these topics would you like to know about: debugging or how to create an API?",
+            "Return statements in coding allow a function to specify a return value to be passed back to the code that called the function. Which of the following would you be interested in learning more about: when to use an API or procedural abstraction?",
+            "A function can define a return value to be handed back to the code that invoked the function using return statements in programming. Choose the next topic to learn about: testing or seeing an example of an API."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

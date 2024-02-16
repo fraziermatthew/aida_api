@@ -1,0 +1,54 @@
+{
+  "id": "b1a195c0-4342-414d-9fe3-c9ab30a3ef1a",
+  "name": "%outOfScope",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "164e97a0-93ba-47f8-81b5-b76e7f86d1a9",
+          "name": "beyondScope",
+          "required": false,
+          "dataType": "@beyondScope",
+          "value": "$beyondScope",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry, I can\u0027t provide information on $beyondScope. What else would you like to learn? I can help you learn about APIs and libraries. Which would you like to learn next about: the process, see an example, or when to use or not to use? \n\nLet me know if you\u0027d like to learn about a different topic like modularity or documentation.",
+            "I apologize, but I am unable to provide information about $beyondScope. What else do you want to know? Tired of learning about APIs or libraries? Which of these another topics interests you: debugging or testing? 📚",
+            "I\u0027m sorry, but I\u0027m unable to give you any information about $beyondScope. Do you need to know anything else? I can explain libraries or APIs. Did you learn about the process, see an example, or learn when to use or not use each. Any other subjects interests you next: modularity or documentation?",
+            "Sorry, but I\u0027m unable to provide you with any details regarding $beyondScope. What other topics interest you: procedural abstraction or function testing? Or, you can ask me to provide you with an explanation of either APIs or libraries. I can give you some examples, as well as advice on when to use it and when you shouldn\u0027t. What information would you wish to learn about next?",
+            "I\u0027m sorry, but I\u0027m unable to give you any information on $beyondScope. Do you need any other details? I can teach you about APIs and libraries. Which do you want to learn about next: the process, an example, or when to utilize them or not?\n\nIf you\u0027re interested in learning more about another subject, such as debugging or testing, let me know."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "8cc3ad85-58f1-4894-bb4e-e927776bfad9",
+  "name": "*es_cs_ex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "es_cs_ex-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c27cb686-3595-4ecd-a344-1a00c8bf763b",
+          "name": "example",
+          "required": false,
+          "dataType": "@example",
+          "value": "$example",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What would you like an example of? APIs or libraries?",
+            "What do you want an example of? Libraries or APIs?",
+            "What would you like to see an example of? A library or an API?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

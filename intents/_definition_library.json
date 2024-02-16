@@ -1,0 +1,80 @@
+{
+  "id": "e8f06f43-6a98-46f6-b0bb-d75fe1e1a2fe",
+  "parentId": "53b94cc2-47df-45c5-8648-e110fde35511",
+  "rootParentId": "1c8acfee-0080-48f9-8e1f-080d4b88d9bf",
+  "name": "_definition_library",
+  "auto": true,
+  "contexts": [
+    "_realWorldApplication_library-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "01_personalReflection_library.01_personalReflection_library-custom._realWorldApplication_library-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be2bc744-182d-4cc5-a78a-ee32414af65a",
+          "name": "result",
+          "required": true,
+          "dataType": "@result",
+          "value": "$result",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here\u0027s a tip 🕵️‍♀️... imagine using a library function that accepts two number parameters and will add the two numbers. Suppose that you use the library with \"6\" and \"8\" and the function returned \"48\".  What does the library function output need to be for others to use it properly? Consistently correct or incorrect outputs?"
+            },
+            {
+              "lang": "en",
+              "value": "Want a clue 🕵️? Imagine that you used a library function that will extract the year from the following date \"05/21/2023\" but the function returned \"2038\". Since library functions are shared, they should return the correct output. What does the library function output need if you are sharing the function? Inconsistent outputs or always correct outputs?"
+            },
+            {
+              "lang": "en",
+              "value": "A clue for you 💁‍♀️: Library functions should guarantee a correct output. Suppose you tried finding the multiple \"7\" with \"5\" using a library. If the function returned \"3\" as the output, that could affect the program using the library. What does the library function output need to be for others to use it properly? Consistently correct or incorrect outputs?"
+            },
+            {
+              "lang": "en",
+              "value": "Need a hint? An accurate output should be guaranteed by library functions. Imagine that you used a library function that will extract the day from the following date \"04/19/2022\" but the function returned \"31\".  Since library functions are shared, they should return the correct output. What does the library function output need if you are sharing the function? Inconsistent outputs or always correct outputs?"
+            },
+            {
+              "lang": "en",
+              "value": "Here\u0027s something to ponder on... 🤔 imagine using a library function that will subtract two numbers. Library functions should ensure a precise output. If the subtraction is incorrect, that can have drastic effects on the program using the library function. What does the library function output need to be for others to use it properly? Consistently correct or incorrect outputs?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is a library. A library is a group of functions (procedures) that may be used in creating new programs. A good library in programming is like a helpful toolbox. It\u0027s easy to understand, can be used in different projects, works well with other tools, works quickly, doesn\u0027t make mistakes, has many users and helpers, and gets updates to make it even better. Would you like to further explain?\n\nI can assist you in understanding the procedure of creating APIs, what the roles of APIs are, view an API example, or determining when to consider APIs. Which API concept would you like to study next?",
+            "A software library is a collection of procedures that can be used in programs. A function in a library of functions is like a small tool that can do a specific task in computer programs. The characteristics of a good function in a library are that it is easy does one thing well, it is easy to use, it works with other functions, it gives the correct answer, it can be used in different programs, and it has good instructions. Do you want me to explain this in more detail?\n\nI can explain APIs to you, explain the role of an API, give you an example, and explain when you should consider APIs and when you shouldn\u0027t. What API information would you like to learn next?\n\nWe can also talk about documentation or procedural abstraction if you\u0027d like to too.",
+            "Libraries are a collection of functions that can be used in many different programs. A function in a library is like a small tool for computer programs. A good function does one job well, is easy to use with clear instructions, works well with other functions, gives the right answer, can be used in different programs, doesn\u0027t cause problems, and comes with good instructions. Need a deeper explanation?\n\nYou can ask me to provide you an explanation of APIs, the role of an API, an example, and suggestions on when you should and shouldn\u0027t consider an API. Which subject would you like to learn more about next?\n\nWe can also talk about documentation or modularity if you\u0027d like to too.",
+            "Software libraries are a collection of functions others have created, published, and shared for others to use. A good library in programming is like a helpful toolbox that makes work easier for developers. It\u0027s easy to understand with clear instructions, can be used in different projects, works well with other tools, is fast and reliable, has many users and helpers, and gets updates for improvements. Would you like me to explain this again?\n\nYou can ask me to provide you an explanation of an API, the role of APIs, an example, when to consider APIs and when you shouldn\u0027t, as well as details on its uses. Which subject are you interested in studying?\n\nIf you prefer, we can chat about debugging or documentation.",
+            "A programming library is a collection of prewritten functions that programmers can use to optimize tasks.  A function in a library of functions is comparable to a small tool that a computer program can use to perform a particular activity. A good function in a library should be simple to use, perform one thing well, work with other functions, provide the right response, be used in a variety of programs, and have clear instructions. Would you like to further explain?\n\nYou can ask me to provide you a definition of APIs, an illustration of how libraries works, the role of APIs, as well as when to consider using it and when not to. Which topic are you most interested in learning more about? Or we can discuss function parameters or procedural abstraction.",
+            "A software library is a package of procedures that you can import into your program.  A library is a kind of abstraction: you don\u0027t have to know any of the details of how it\u0027s coded. You can build libraries yourself, or you can use one that someone else wrote. Do you want me to explain this in more detail?\n\nYou can ask me to provide you a definition of APIs, an illustration of how libraries works, the role of APIs, as well as when to consider using it and when not to. Which topic are you most interested in learning more about? We can discuss documentation or debugging too."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

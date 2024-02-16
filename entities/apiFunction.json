@@ -1,0 +1,9 @@
+{
+  "id": "9fb37365-93b0-4a0e-b395-53c163bae98f",
+  "name": "apiFunction",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

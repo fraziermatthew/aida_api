@@ -1,0 +1,39 @@
+{
+  "id": "f6be1cd6-1e88-4ec3-a682-c98be58c2417",
+  "name": "^modularity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There\u0027s a term for using libraries or other forms of organization in a program. It\u0027s called modularity. Modularity is the subdivision of a computer program into separate subprograms. Which of the following would you be interested in learning more about: an example of APIs or libraries?",
+            "Modularity is the process of breaking a programming project up into separate sub-problems.  Which subject interests you more, an example of libraries or APIs?",
+            "Modularity is the process of breaking a problem into smaller pieces. Modularity is a form of procedural abstraction. Which topic, debugging or the role of APIs, interests you more?",
+            "Modular programming is the process of subdividing a computer program into separate sub-programs. When you create and reuse functions within a program, you are utilizing modularity. Which subject interests you more, when to use an API or procedural abstraction?",
+            "It\u0027s a principle and pattern of separating the functionality of a program into independent subprograms. Which subject interests you more: function return values or seeing an example of a library?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
